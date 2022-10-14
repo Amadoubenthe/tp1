@@ -1,0 +1,15 @@
+C:\Users\INFI-STG4\OneDrive\Desktop\AppliBytes\bin\Debug\net6.0\AppliBytes.exe
+C:\Users\INFI-STG4\OneDrive\Desktop\AppliBytes\bin\Debug\net6.0\AppliBytes.deps.json
+C:\Users\INFI-STG4\OneDrive\Desktop\AppliBytes\bin\Debug\net6.0\AppliBytes.runtimeconfig.json
+C:\Users\INFI-STG4\OneDrive\Desktop\AppliBytes\bin\Debug\net6.0\AppliBytes.dll
+C:\Users\INFI-STG4\OneDrive\Desktop\AppliBytes\bin\Debug\net6.0\AppliBytes.pdb
+C:\Users\INFI-STG4\OneDrive\Desktop\AppliBytes\obj\Debug\net6.0\AppliBytes.csproj.AssemblyReference.cache
+C:\Users\INFI-STG4\OneDrive\Desktop\AppliBytes\obj\Debug\net6.0\AppliBytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INFI-STG4\OneDrive\Desktop\AppliBytes\obj\Debug\net6.0\AppliBytes.AssemblyInfoInputs.cache
+C:\Users\INFI-STG4\OneDrive\Desktop\AppliBytes\obj\Debug\net6.0\AppliBytes.AssemblyInfo.cs
+C:\Users\INFI-STG4\OneDrive\Desktop\AppliBytes\obj\Debug\net6.0\AppliBytes.csproj.CoreCompileInputs.cache
+C:\Users\INFI-STG4\OneDrive\Desktop\AppliBytes\obj\Debug\net6.0\AppliBytes.dll
+C:\Users\INFI-STG4\OneDrive\Desktop\AppliBytes\obj\Debug\net6.0\refint\AppliBytes.dll
+C:\Users\INFI-STG4\OneDrive\Desktop\AppliBytes\obj\Debug\net6.0\AppliBytes.pdb
+C:\Users\INFI-STG4\OneDrive\Desktop\AppliBytes\obj\Debug\net6.0\AppliBytes.genruntimeconfig.cache
+C:\Users\INFI-STG4\OneDrive\Desktop\AppliBytes\obj\Debug\net6.0\ref\AppliBytes.dll
